@@ -38,3 +38,8 @@ The internal 1.1V reference voltage is used to improve measurement stability.
 | Channel              | ADC0              |
 
 
+## Voltage Calculation
+
+Voltage = (ADC_Value / 1023.0) × 1.1V
+
+
