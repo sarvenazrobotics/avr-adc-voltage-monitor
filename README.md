@@ -58,4 +58,13 @@ The ATmega328P converts analog voltages to 10-bit digital values.
 Internal 1.1V reference ensures stable measurements for low-voltage inputs.
 
 
+## Applications
+
+Real-time voltage monitoring
+
+Embedded sensor data acquisition
+
+Prototype for digital voltmeters or temperature monitors
+
+
 
