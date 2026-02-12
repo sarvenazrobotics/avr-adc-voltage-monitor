@@ -25,3 +25,16 @@ The internal 1.1V reference voltage is used to improve measurement stability.
 - 5V power supply
 - AVR programmer
 
+---
+
+## ADC Configuration
+
+| Parameter            | Value              |
+|----------------------|-------------------|
+| Resolution           | 10-bit            |
+| Reference Voltage    | Internal 1.1V     |
+| Prescaler            | 128               |
+| Mode                 | Single Conversion |
+| Channel              | ADC0              |
+
+
