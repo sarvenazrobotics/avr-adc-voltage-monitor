@@ -44,7 +44,10 @@ Voltage = (ADC_Value / 1023.0) × 1.1V
 
 
  
-<img src="adc_schematic.png" width="300" height="200">
+<p align="center">
+  <img src="ADC_schematic.png" width="250">
+</p>
+
 
 
 This schematic demonstrates an analog-to-digital conversion system using an ATmega328P microcontroller, an LM016L LCD, and a temperature sensor (LM35). The system reads analog voltages from a potentiometer and the LM35 sensor, converts them to digital values using the ATmega328P's 10-bit ADC, and displays the results on a 16x2 LCD.
