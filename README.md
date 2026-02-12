@@ -44,7 +44,7 @@ Voltage = (ADC_Value / 1023.0) × 1.1V
 
 
  
-![Alt text](images/adc_schematic.png)
+![Alt text](images/ADC_schematic.png)
 
 
 
