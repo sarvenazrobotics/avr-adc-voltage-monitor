@@ -43,3 +43,8 @@ The internal 1.1V reference voltage is used to improve measurement stability.
 Voltage = (ADC_Value / 1023.0) × 1.1V
 
 
+ 
+![Alt text](images/adc_schematic.png)
+
+
+
