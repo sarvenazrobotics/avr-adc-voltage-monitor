@@ -6,6 +6,9 @@
 *.cproj
 *.fct
 *.prj
+*.txt
+*.prj
+*.prj~
 # Build folders
 Debug/
 Release/
