@@ -17,4 +17,11 @@ The internal 1.1V reference voltage is used to improve measurement stability.
 - Prescaler set to 128 for stable ADC clock
 - Digital input buffer disabled for reduced noise
 
+## Hardware Requirements
+
+- AVR Microcontroller (ATmega16 / ATmega32 / ATmega328P)
+- 16x2 LCD display
+- Analog signal source (e.g., potentiometer)
+- 5V power supply
+- AVR programmer
 
