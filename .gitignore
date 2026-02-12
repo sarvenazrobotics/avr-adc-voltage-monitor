@@ -1,0 +1,11 @@
+*.atsln
+*.cbi
+*.cci
+*.cproj
+*.cof
+*.cproj
+*.fct
+*.prj
+# Build folders
+Debug/
+Release/
